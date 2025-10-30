@@ -29,8 +29,6 @@ Schüler bei **BEGA**, aktiv in Technikprojekten: Licht, Ton, Video, Server & Pr
 
 ## GitHub Stats
 ![Valentin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v-berlin&show_icons=true&hide_title=false&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v-berlin&layout=compact&theme=radical)
-![Contribution Heatmap](https://activity-graph.herokuapp.com/graph?username=v-berlin-bln&theme=react-dark&hide_border=true)
 
 ---
 
