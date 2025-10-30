@@ -1,6 +1,6 @@
 # Hi, ich bin Valentin 👋
 
-Schüler bei **bEGA**, aktiv in Technikprojekten: Licht, Ton, Video, Server & Programmierung.  
+Schüler bei **BEGA**, aktiv in Technikprojekten: Licht, Ton, Video, Server & Programmierung.  
 
 ---
 
