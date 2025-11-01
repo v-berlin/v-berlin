@@ -1,21 +1,18 @@
-# Hi, ich bin Valentin 👋
+👋 Hi, ich bin Valentin  
+📍 Berlin, Deutschland  
+💼 Eventtechnik | IT | Smart Home | Systemintegration | Server & Technical Maintainer @ BEGA  
 
-Schüler bei **BEGA**, aktiv in Technikprojekten: Licht, Ton, Video, Server & Programmierung.  
+🔧 Aktuelles Projekt  
+**Motive for Home Assistant** – Ein fortschrittlicher Produktivitätstracker, der Abläufe analysiert und Automatisierungen erstellt.  
 
----
+💡 Interessen  
+- Licht- & Tontechnik  
+- Automatisierungen & Home Assistant  
+- Hardware, Server, Linux & Windows  
 
-## Was ich mache
-- **Server & Backend:** Aufbau, Administration & Automatisierung von Servern.  
-- **Programmierung & Automatisierung:** JavaScript, Node.js, n8n, Docker, Linux.  
-- **Licht, Ton & Video:** Unterstützung bei Schulveranstaltungen, Integration von Audio- & Lichttechnik.
+🌐 Offen für neue Projekte in Smart Home & Eventtechnik  
 
----
-
-## Projekte
-- **Event-Buchungsplattform für Lehrer:** Buchungen direkt im Kalender, automatisiert mit n8n.  
-- **Schulolympiade-Dashboard:** Backend zur Punkteverwaltung, Dashboard für Schüler mit Top-10 Klassen & Infos, Integration in Aula-TV.
-
----
+🚀 „The most important thing is to build great products that people love to use.“ – Jensen Huang
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -29,8 +26,3 @@ Schüler bei **BEGA**, aktiv in Technikprojekten: Licht, Ton, Video, Server & Pr
 
 ## GitHub Stats
 ![Valentin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v-berlin&show_icons=true&hide_title=false&count_private=true&theme=radical)
-
----
-
-## Kontakt
-Immer offen für Austausch über Technik, Projekte & Programmierung.
