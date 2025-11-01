@@ -1,7 +1,7 @@
 # 👋 Hi, ich bin Valentin
 
 📍 **Ort:** Berlin, Deutschland  
-💼 **Beruf:** Eventtechnik | IT | Smart Home | Systemintegration | Server & Technical Maintainer @ BEGA  
+💼 **Beruf:** Eventtechnik | IT | Smart Home | Systemintegration | Server & Technical Maintainer @ @bega-berlin
 
 ---
 
