@@ -25,6 +25,5 @@ Offen für neue Projekte in **Smart Home** & **Eventtechnik**.
 ---
 
 ## 🚀 Motto
-> [!Info]
 > *"The most important thing is to
-> build great products that people love to use."* – Jensen Huang
+> build great products that people love to use."* – **Jensen Huang**
